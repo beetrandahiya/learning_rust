@@ -1,0 +1,12 @@
+c:\Work\RUST\learning_rust\ytd\target\debug\deps\httparse-5ec50e1f7174c393.rmeta: C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs
+
+c:\Work\RUST\learning_rust\ytd\target\debug\deps\libhttparse-5ec50e1f7174c393.rlib: C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs
+
+c:\Work\RUST\learning_rust\ytd\target\debug\deps\httparse-5ec50e1f7174c393.d: C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs
+
+C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs:
+C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs:
+C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs:
+C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs:
+C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs:
+C:\Users\beetr\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs:
